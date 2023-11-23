@@ -24,7 +24,8 @@ body{
     margin: 10px;
 }
 
-.wrapper_container{
+.wrapper_container
+{
     /* display: flex;  */
     flex-direction: row;
     column-gap: 20px;
